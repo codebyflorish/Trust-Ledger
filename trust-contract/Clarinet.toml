@@ -8,6 +8,10 @@ requirements = []
 path = "contracts/invoice-guard.clar"
 depends_on = []
 
+[contracts.invoice-registry]
+path = "contracts/invoice-registry.clar"
+depends_on = []
+
 [repl]
 costs_version = 2
 parser_version = 2

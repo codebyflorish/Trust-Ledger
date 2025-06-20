@@ -12,6 +12,10 @@ depends_on = []
 path = "contracts/invoice-registry.clar"
 depends_on = []
 
+[contracts.invoice-settlement]
+path = "contracts/invoice-settlement.clar"
+depends_on = []
+
 [repl]
 costs_version = 2
 parser_version = 2

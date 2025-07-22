@@ -4,6 +4,10 @@ authors = []
 description = ""
 telemetry = true
 requirements = []
+[contracts.dispute-resolution]
+path = "contracts/dispute-resolution.clar"
+depends_on = []
+
 [contracts.invoice-guard]
 path = "contracts/invoice-guard.clar"
 depends_on = []
